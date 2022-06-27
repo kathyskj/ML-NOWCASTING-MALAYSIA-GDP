@@ -6,14 +6,13 @@ This report presents the International Data Science Accelerator Programme's outp
 This project aims to identify a new and potential approach to nowcasting GDP using Machine Learning models. This new approach may complement the existing method of producing GDP advanced estimates. The project output is reproducible and accessible through GitHub.
 
 ### Methodology Framework
-![overall data science drawio](https://user-images.githubusercontent.com/58675575/175886895-ed878e5f-5225-4f8d-a26a-b9b5f25296f5.png)
+![overall data science drawio (1)](https://user-images.githubusercontent.com/58675575/175923336-c3e4493c-2c31-4d1e-942b-1b4906893135.png)
 
 ### Data and Experimental Setup
 The most crucial part of executing this project is acquiring relevant data series. Initially, we managed to compile a dataset comprising more than 100 economic-related variables at different time-frame. Some variables have more extended back series, while some indicators are only available in shorter time series, making the variable selection process consume much more time than expected. The process includes cross-checking available time-series data on different platforms and harmonising those datasets.
 
 ### Experimental Procedure
-![Data Science drawio](https://user-images.githubusercontent.com/58675575/175885248-d361e44d-72b3-40f6-9f15-90f4b02e9d8b.png)
-
+![Data Science drawio (1)](https://user-images.githubusercontent.com/58675575/175923387-729637b1-ab78-48a0-a97f-931253a9e8a3.png)
 
 ### Data
 Before implementing Machine Learning Models, we have experimented with various combinations of a dataset. Those datasets are selected with variables that have extended back series and transformed into a stationary dataset. 
